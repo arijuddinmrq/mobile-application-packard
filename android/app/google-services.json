@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "332734361468",
+    "firebase_url": "https://ml-revised-default-rtdb.firebaseio.com",
+    "project_id": "ml-revised",
+    "storage_bucket": "ml-revised.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332734361468:android:18b72f3d263de4ca49fef9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMZ5Il5HBFTG1XWDAcjdtMSY2bZYu1mlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332734361468:android:286e81d99a3c4ed749fef9",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMZ5Il5HBFTG1XWDAcjdtMSY2bZYu1mlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
